@@ -1,0 +1,25 @@
+body {
+  margin: 10%;
+  margin-left: 30%;
+  background-color: rgb(243, 243, 250);
+}
+
+.container {
+  border: 3px solid rgb(211, 209, 209);
+  max-width: 60%;
+  text-align: center;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  color: rgb(163, 165, 165);
+  text-align: left;
+  margin-left: 20px;
+}
+
+textarea {
+  border-radius: 20px;
+  padding: 10px;
+  border: 2px solid black;
+}
